@@ -15,8 +15,6 @@ layout = [
 
 window = sg.Window('Model Downloader', layout)
 
-i = 2
-
 while True:
     event, values = window.read()
 
